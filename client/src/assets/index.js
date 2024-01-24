@@ -10,6 +10,9 @@ export { default as Four } from "./images/4.jpg";
 export { default as Five } from "./images/5.jpg";
 export { default as Seven } from "./images/7.jpg";
 
+export {default as LoginBG} from './images/bg.jpg';
+// export {defualt as ChatHero} from './images/chathero.png';
+
 // avatars
 
 export { default as Avatar1 } from "./images/avatar1.jpeg";
